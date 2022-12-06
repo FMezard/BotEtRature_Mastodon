@@ -1,23 +1,8 @@
 blinker==1.4
 blurhash==1.1.4
 certifi==2021.10.8
-cffi @ file:///D:/bld/cffi_1636046293990/work
-charset-normalizer @ file:///home/conda/feedstock_root/build_artifacts/charset-normalizer_1644853463426/work
-cryptography @ file:///D:/bld/cryptography_1647857905465/work
 decorator==5.1.1
-idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1642433548627/work
 Mastodon.py==1.8.0
-oauthlib @ file:///home/conda/feedstock_root/build_artifacts/oauthlib_1643507977997/work
-pycparser @ file:///home/conda/feedstock_root/build_artifacts/pycparser_1636257122734/work
-PyJWT @ file:///home/conda/feedstock_root/build_artifacts/pyjwt_1638819640841/work
-pyOpenSSL @ file:///home/conda/feedstock_root/build_artifacts/pyopenssl_1643496850550/work
-PySocks @ file:///D:/bld/pysocks_1635862590164/work
 python-dateutil==2.8.2
 python-magic==0.4.27
-requests @ file:///home/conda/feedstock_root/build_artifacts/requests_1641580202195/work
-requests-oauthlib @ file:///home/conda/feedstock_root/build_artifacts/requests-oauthlib_1643557462909/work
-six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work
-tweepy @ file:///home/conda/feedstock_root/build_artifacts/tweepy_1647571700722/work
-urllib3 @ file:///home/conda/feedstock_root/build_artifacts/urllib3_1647489083693/work
-win-inet-pton @ file:///D:/bld/win_inet_pton_1635833007271/work
 wincertstore==0.2
