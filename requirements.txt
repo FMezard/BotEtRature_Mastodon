@@ -1,6 +1,5 @@
 blinker==1.4
 blurhash==1.1.4
-brotlipy @ file:///D:/bld/brotlipy_1636012381660/work
 certifi==2021.10.8
 cffi @ file:///D:/bld/cffi_1636046293990/work
 charset-normalizer @ file:///home/conda/feedstock_root/build_artifacts/charset-normalizer_1644853463426/work
